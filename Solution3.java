@@ -11,6 +11,8 @@ import java.util.List;
  * 子集中的每一对元素 (answer[i], answer[j]) 都必须满足：
  * - answer[i] % answer[j] == 0，或 answer[j] % answer[i] == 0。
  */
+
+//整个程序做的没有问题，但是一些地方可以使用语法变得更加简洁一点
 public class Solution3 {
 
     /**
